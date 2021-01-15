@@ -1,0 +1,21 @@
+com/app/backend/Main.java
+ com.app.backend.Main
+com/app/backend/models/InputReader.java
+ com.app.backend.models.InputReader
+com/app/backend/models/Review.java
+ com.app.backend.models.Review
+ com.app.backend.models.Review$ReviewBuilder
+com/app/backend/models/User.java
+ com.app.backend.models.User
+ com.app.backend.models.User$UserBuilder
+com/app/backend/models/Adder.java
+ com.app.backend.models.Adder
+com/app/backend/models/Movies.java
+ com.app.backend.models.Movies
+ com.app.backend.models.Movies$MoviesBuilder
+com/app/backend/services/MovieServicesImpl.java
+ com.app.backend.services.MovieServicesImpl
+com/app/backend/Utils/Commands.java
+ com.app.backend.Utils.Commands
+com/app/backend/services/MovieServices.java
+ com.app.backend.services.MovieServices
